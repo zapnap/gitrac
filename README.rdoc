@@ -1,0 +1,11 @@
+= Gitrac
+
+A way simple distributed issue tracking system for Git. Work in progress.
+
+== Pronunciation  
+
+It's pronounced "Gee Eye Track", people. It's funny. Srsly.
+
+== Copyright
+
+Copyright (c) 2009 Nick Plante. See LICENSE for details.
